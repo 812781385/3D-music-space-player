@@ -1,0 +1,19 @@
+{
+  "name": "3d-music-t",
+  "version": "1.0.0",
+  "description": "3d裸眼太空音乐播放器",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "panhu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "open": "^9.1.0",
+    "request": "^2.88.2"
+  }
+}
